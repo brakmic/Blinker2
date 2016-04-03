@@ -9,7 +9,7 @@ A simple FPGA design project written in VHDL.
 
 #### Setup
 
-- Install ISE 17.4 and open the `blinker2.xise` file. 
+- Install ISE 17.4 and open the `blinker2.xise` file.
 - **Synthesize** VHDL, **Implement** Design & **Generate** Bitstream file.
 - Upload it to the device with `Configure Target Device` option.
 
@@ -26,6 +26,12 @@ A simple FPGA design project written in VHDL.
 - And finally, program the device.
 
 <img src="http://fs5.directupload.net/images/160403/wkbtmv8m.png"/>
+
+#### Demo
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=13CHJehqqGs"
+target="_blank"><img src="http://img.youtube.com/vi/13CHJehqqGs/0.jpg"
+alt="Click Flasher" width="240" height="180" border="10" /></a>
 
 #### Problems
 
