@@ -1,0 +1,14 @@
+#Clock
+net clock  loc=p56;
+
+#Keys
+net key2 loc = p21;
+net key1 loc = p17;
+net key4 loc = p16;
+net key3 loc = p15;
+
+#LEDs
+net led1 loc = p95;
+net led2 loc = p94;
+net led3 loc = p98;
+net led4 loc = p97;

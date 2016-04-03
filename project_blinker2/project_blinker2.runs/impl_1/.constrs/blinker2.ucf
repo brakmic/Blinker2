@@ -1,0 +1,2 @@
+NET "clk_i" LOC = P56;
+NET "blinker_o" LOC = P95;
