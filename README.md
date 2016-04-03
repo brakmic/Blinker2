@@ -15,7 +15,7 @@ A simple FPGA design project written in VHDL.
 
 <img src="http://fs5.directupload.net/images/160403/ypy7c43l.png"/>
 
-- In the ISE iMPACT Tool you'll first have to connect your programming cable
+- In the **ISE iMPACT** Tool you'll first have to establish a connection to your programming cable.
 
 <img src="http://fs5.directupload.net/images/160403/d2ro2hmo.png"/>
 
