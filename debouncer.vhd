@@ -48,7 +48,7 @@ begin
 	end if;
 end process;
 
-deb_sig <= q0 and q1 and (not q2);
+deb_sig <= q0 and q1 and q2;
 
 end Behavioral;
 

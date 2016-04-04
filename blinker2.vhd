@@ -84,16 +84,16 @@ process(clock) is
 process(clock) is
 	begin
 		if rising_edge(clock) then
-			if(deb_key1 = '1') then
+			if(deb_key1 = '0') then
 				led1 <= counter(22);
 			end if;
-			if(deb_key2 = '1') then
+			if(deb_key2 = '0') then
 				led2 <= counter(22);
 			end if;
-			if(deb_key3 = '1') then
+			if(deb_key3 = '0') then
 				led3 <= counter(22);
 			end if;
-			if(deb_key4 = '1') then
+			if(deb_key4 = '0') then
 				led4 <= counter(22);
 			end if;
 		end if;
