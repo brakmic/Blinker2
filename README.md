@@ -4,7 +4,7 @@ A simple FPGA design project written in VHDL.
 
 #### Requirements
 
-- Xilinx Spartan 6 FPGA compatible board
+- Xilinx Spartan 6 board
 - Xilinx ISE 14.7 ([free download](http://www.xilinx.com/products/design-tools/ise-design-suite.html))
 
 #### Setup
