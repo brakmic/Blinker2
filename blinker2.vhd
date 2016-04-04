@@ -1,16 +1,16 @@
 ----------------------------------------------------------------------------------
 -- Company: 
--- Engineer: 
+-- Engineer:       Harris Brakmic
 -- 
 -- Create Date:    17:05:04 03/30/2016 
--- Design Name: 
+-- Design Name:    blinker2
 -- Module Name:    blinker2 - Behavioral 
--- Project Name: 
--- Target Devices: 
--- Tool versions: 
--- Description: 
+-- Project Name:   blinker 2
+-- Target Devices: Xilinx Spartan 6 LX9
+-- Tool versions:  ISE 14.7
+-- Description:    a simple click-flasher
 --
--- Dependencies: 
+-- Dependencies:   none
 --
 -- Revision: 
 -- Revision 0.01 - File Created
@@ -18,7 +18,7 @@
 --
 ----------------------------------------------------------------------------------
 library ieee;
-use ieee.std_logic_1164.ALL;
+use ieee.std_logic_1164.all;
 use ieee.std_logic_unsigned.all;
 
 entity blinker2 is
@@ -37,7 +37,7 @@ end blinker2;
 
 architecture Behavioral of blinker2 is
 	signal counter : std_logic_vector(22 downto 0) := (others=>'0');
-	signal deb_key1, deb_key2, deb_key3, deb_key4: STD_LOGIC;
+	signal deb_key1, deb_key2, deb_key3, deb_key4: std_logic;
 	
 	component debouncer
    port (
