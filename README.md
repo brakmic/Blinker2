@@ -19,7 +19,7 @@ A simple FPGA design project written in VHDL.
 
 <img src="http://fs5.directupload.net/images/160403/d2ro2hmo.png"/>
 
-- The add your newly generated bitfile.
+- Then add your newly generated bitfile.
 
 <img src="http://fs5.directupload.net/images/160403/e8erbfib.png"/>
 
