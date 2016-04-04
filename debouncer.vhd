@@ -41,7 +41,7 @@ begin
 
 process (clk_i) is
 begin
-	if (clk_i'event and clk_i = '1') then 
+	if rising_edge(clk_i) then 
 		q0 <= sig;
 		q1 <= q0;
 		q2 <= q1;
