@@ -1,4 +1,4 @@
-#### Blinker2
+#### Click-Flasher
 
 A simple FPGA design project written in VHDL.
 
@@ -27,7 +27,7 @@ A simple FPGA design project written in VHDL.
 
 <img src="http://fs5.directupload.net/images/160403/wkbtmv8m.png"/>
 
-#### Demo
+#### Video
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=13CHJehqqGs"
 target="_blank"><img src="http://img.youtube.com/vi/13CHJehqqGs/0.jpg"

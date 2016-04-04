@@ -1,2 +1,0 @@
-net clk_i     loc=p56;
-net blinker_o loc=p95;
