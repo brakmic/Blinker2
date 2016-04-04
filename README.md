@@ -31,7 +31,7 @@ A simple FPGA design project written in VHDL.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=13CHJehqqGs"
 target="_blank"><img src="http://img.youtube.com/vi/13CHJehqqGs/0.jpg"
-alt="Click Flasher" width="240" height="180" border="10" /></a>
+alt="Click Flasher" width="240" height="180" border="3" /></a>
 
 #### Problems
 
